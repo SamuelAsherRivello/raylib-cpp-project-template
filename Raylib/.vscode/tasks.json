@@ -1,0 +1,25 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Build and Execute",
+            "type": "shell",
+            "command": "mingw32-make bin/app && mingw32-make execute",
+            "problemMatcher": [],
+            "detail": "Custom build and execute task",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "presentation": {
+                "echo": true,
+                "reveal": "always", // Show the terminal output always
+                "focus": false,
+                "panel": "shared", // Shared panel so you can see the results
+                "showReuseMessage": false,
+                "clear": true
+            }
+            
+        }
+    ]
+}
