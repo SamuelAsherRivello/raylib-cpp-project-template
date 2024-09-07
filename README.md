@@ -194,10 +194,10 @@ This template focuses on [Raylib](https://https://www.raylib.com/), a simple and
 
 For more power, checkout rBitrage. [rBitrage](https://github.com/SamuelAsherRivello/rBitrage) (aka "Arbitrage" aka "Bit Rage") is a custom C++ 2D/3D game engine built on Raylib. It's easy to learn, easy to use, and hard to misuse.
 
-|                                                             | Raylib | **2D/3D** | **Game Editor** | **Game Engine** | **Actors** | **Systems** | **Lifecycle** | **Camera** | **Input Mapping** | **Loader** |
-| ----------------------------------------------------------- | ------ | --------- | --------------- | ---------- | ----------| ----------- | ------------- | ---------- | ----------------- | ---------- |
-| [rBitrage ](https://github.com/SamuelAsherRivello/rBitrage) | ✅     | ✅        | ❌              | ✅     | ✅           | ✅          | ✅            | ✅         | ✅                | ✅         |
-| [Raylib](https://https://www.raylib.com/)                   | ✅     | ✅        | ❌              | ❌     | ❌          | ❌          | ❌            | ❌         | ❌                | ❌         |
+|                                                             | **Raylib<BR>2D/3D** | **Game Editor** | **Game Engine** | **Actors** | **Systems** | **Lifecycle** | **Camera** | **Input Mapping** | **Loader** |
+| ----------------------------------------------------------- |  --------- | --------------- | ---------- | ----------| ----------- | ------------- | ---------- | ----------------- | ---------- |
+| [rBitrage ](https://github.com/SamuelAsherRivello/rBitrage) | ✅          | ❌              | ✅     | ✅           | ✅          | ✅            | ✅         | ✅                | ✅         |
+| [Raylib](https://https://www.raylib.com/)                   | ✅         | ❌              | ❌     | ❌          | ❌          | ❌            | ❌         | ❌                | ❌         |
 
 
 <BR>
