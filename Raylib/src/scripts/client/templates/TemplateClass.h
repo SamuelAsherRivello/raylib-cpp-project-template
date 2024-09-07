@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 
-namespace RMC::Templates 
+namespace RMC 
 {
     class TemplateClass 
     {

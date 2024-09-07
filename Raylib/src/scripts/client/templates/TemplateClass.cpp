@@ -1,4 +1,4 @@
-#include "TemplateClass.h"
+#include "client/templates/TemplateClass.h"
 
 /**
  * Naming And Casing 
@@ -24,7 +24,7 @@
  */
 
 
-namespace RMC::Templates 
+namespace RMC 
 {
     /**
      * Constructor to initialize the age.
