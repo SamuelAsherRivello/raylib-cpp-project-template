@@ -1,8 +1,9 @@
-#include "raylib.h"
-#include "game/Ball.h"
+#include <raylib.h>
 #include <iostream>
+//
+#include "client/game/Ball.h"
+//
 using namespace RMC;
-
 
 int main() 
 {

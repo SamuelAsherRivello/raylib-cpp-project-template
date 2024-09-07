@@ -1,5 +1,7 @@
-#include "Ball.h"
-#include "raylib.h"
+#include <raylib.h>
+//
+#include "client/game/Ball.h"
+
 
 namespace RMC 
 {
