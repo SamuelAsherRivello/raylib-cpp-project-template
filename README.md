@@ -183,16 +183,22 @@ width = "600"
 
 <figure>
 <img alt="screenshot"
-src="./Raylib/documentation/rbitrage_logo.png"
-width = "200"
+src="./Raylib/documentation/rbitrage_banner.png" 
+width = "600"
 >
 <figcaption></figcaption>
 </figure>
 
-This template focuses on [Raylib](https://https://www.raylib.com/), a simple and easy-to-use library.
+This **Raylib C++ Template Project** is focused on **Raylib**, a simple and easy-to-use library to enjoy videogames programming.
 
 
-For more power, checkout rBitrage. [rBitrage](https://github.com/SamuelAsherRivello/rBitrage) (aka "Arbitrage" aka "Bit Rage") is a custom C++ 2D/3D game engine built on Raylib. It's easy to learn, easy to use, and hard to misuse.
+However for more power, checkout rBitrage. [rBitrage](https://github.com/SamuelAsherRivello/rBitrage) (aka "Arbitrage" aka "Bit Rage") is a custom C++ 2D/3D game engine built on Raylib. 
+
+> rBitrage is easy to learn, easy to use, and hard to misuse.
+
+How do they these major options compare?
+
+<BR>
 
 |                                                             | **Raylib<BR>2D/3D** | **Game Editor** | **Game Engine** | **Actors** | **Systems** | **Lifecycle** | **Camera** | **Input Mapping** | **Loader** |
 | ----------------------------------------------------------- |  --------- | --------------- | ---------- | ----------| ----------- | ------------- | ---------- | ----------------- | ---------- |
